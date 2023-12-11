@@ -1,0 +1,14 @@
+C:\Users\Animal V2 Mobile\source\repos\Week2ifstatemens\Week2ifstatemens\bin\Debug\net6.0\Week2ifstatemens.exe
+C:\Users\Animal V2 Mobile\source\repos\Week2ifstatemens\Week2ifstatemens\bin\Debug\net6.0\Week2ifstatemens.deps.json
+C:\Users\Animal V2 Mobile\source\repos\Week2ifstatemens\Week2ifstatemens\bin\Debug\net6.0\Week2ifstatemens.runtimeconfig.json
+C:\Users\Animal V2 Mobile\source\repos\Week2ifstatemens\Week2ifstatemens\bin\Debug\net6.0\Week2ifstatemens.dll
+C:\Users\Animal V2 Mobile\source\repos\Week2ifstatemens\Week2ifstatemens\bin\Debug\net6.0\Week2ifstatemens.pdb
+C:\Users\Animal V2 Mobile\source\repos\Week2ifstatemens\Week2ifstatemens\obj\Debug\net6.0\Week2ifstatemens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Animal V2 Mobile\source\repos\Week2ifstatemens\Week2ifstatemens\obj\Debug\net6.0\Week2ifstatemens.AssemblyInfoInputs.cache
+C:\Users\Animal V2 Mobile\source\repos\Week2ifstatemens\Week2ifstatemens\obj\Debug\net6.0\Week2ifstatemens.AssemblyInfo.cs
+C:\Users\Animal V2 Mobile\source\repos\Week2ifstatemens\Week2ifstatemens\obj\Debug\net6.0\Week2ifstatemens.csproj.CoreCompileInputs.cache
+C:\Users\Animal V2 Mobile\source\repos\Week2ifstatemens\Week2ifstatemens\obj\Debug\net6.0\Week2ifstatemens.dll
+C:\Users\Animal V2 Mobile\source\repos\Week2ifstatemens\Week2ifstatemens\obj\Debug\net6.0\refint\Week2ifstatemens.dll
+C:\Users\Animal V2 Mobile\source\repos\Week2ifstatemens\Week2ifstatemens\obj\Debug\net6.0\Week2ifstatemens.pdb
+C:\Users\Animal V2 Mobile\source\repos\Week2ifstatemens\Week2ifstatemens\obj\Debug\net6.0\Week2ifstatemens.genruntimeconfig.cache
+C:\Users\Animal V2 Mobile\source\repos\Week2ifstatemens\Week2ifstatemens\obj\Debug\net6.0\ref\Week2ifstatemens.dll
